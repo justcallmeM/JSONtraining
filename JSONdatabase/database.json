@@ -1,0 +1,30 @@
+{
+  "database": {
+    "productList": [
+      {
+        "imagePath": "1",
+        "name": "2",
+        "price": "3",
+        "description": "4",
+        "photos": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "imagePath": "1",
+        "name": "2",
+        "price": "3",
+        "description": "4",
+        "photos": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      }
+    ]
+  }
+}
